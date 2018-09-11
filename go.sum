@@ -1,0 +1,10 @@
+github.com/buddhavs/module_test v0.0.0-20180911221708-6b526256f62a h1:64ERfn2syORHqyH8KUG8+2dVC9tnlYTfO4DBllpYt2E=
+github.com/buddhavs/module_test v0.0.0-20180911221708-6b526256f62a/go.mod h1:FL6yzsH1VNv6i9GnFIq+dsRsH5Kz4VODZL0KwJRcki0=
+github.com/buddhavs/module_test v1.0.3 h1:HtlSf2QSO3CWeox5UQQog5mxugRk23BBvrgjsTFbzHQ=
+github.com/buddhavs/module_test v1.0.3/go.mod h1:FL6yzsH1VNv6i9GnFIq+dsRsH5Kz4VODZL0KwJRcki0=
+github.com/buddhavs/module_test/v2 v2.0.0 h1:Xn1DCZ/zfZpHDi+eI2YBIIJPvww0TidpjTa+b8i06n0=
+github.com/buddhavs/module_test/v2 v2.0.0/go.mod h1:VZYm+3RkBNIkg3wpKDESyinoox5M2bVn7EAcM3fOaq4=
+github.com/buddhavs/module_test/v2 v2.0.1 h1:gKKswsqnlb4UFnyKp2AAQOLy2Qga5Be/9pXn8TbnKog=
+github.com/buddhavs/module_test/v2 v2.0.1/go.mod h1:VZYm+3RkBNIkg3wpKDESyinoox5M2bVn7EAcM3fOaq4=
+github.com/buddhavs/module_test/v3 v3.0.1 h1:XkAIkKgCcAQfy+O1ehR5co8VMoQOfKDMJ8Utkie4AqY=
+github.com/buddhavs/module_test/v3 v3.0.1/go.mod h1:5Hd+tNLbgDBcewk40DpjsmD4bXvx9NZba1pkJqXNo4E=
